@@ -1,2 +1,1 @@
-# password-cli
-A simple CLI tool to generate secure passwords.
+# DOWNLOAD python3 from Microsoft Launcher to load .bat file
